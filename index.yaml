@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  cluster-autoscaler:
+  - apiVersion: v2
+    appVersion: "1"
+    created: "2021-07-28T15:26:52.7136377-03:00"
+    description: A Helm chart for EKS Cluster Autoscaler
+    digest: 57811cc01f70a653a4b2dfa5c7c24176a1022ab9ef9710f248b50434ab044bfa
+    maintainers:
+    - email: felipe.madeiros@dock.tech
+      name: Felipe Madeiros
+    name: cluster-autoscaler
+    sources:
+    - https://github.com/felipemadeiros-Dock/poc-helm/
+    urls:
+    - cluster-autoscaler-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-07-28T15:26:52.7131276-03:00"
